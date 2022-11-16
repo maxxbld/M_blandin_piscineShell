@@ -1,0 +1,355 @@
+    1  man sudo
+    2  mount -uw /
+    3  launchctl load /System/Library/LaunchDaemons/com.apple.taskgated.plist
+    4  launchctl load /System/Library/launchDaemons/com.apple.opendirectoryd.plist
+    5  passwd root
+    6  /Volumes/NO\ NAME/MISC/card ; exit;
+    7     
+    8  defaults write com.google.Chrome HomepageIsNewTabPage -bool false
+    9  defaults write com.google.Chrome NewTabPageLocation -string "https://www.google.com/"
+   10  defaults write com.google.Chrome HomepageLocation -string "https://www.google.com/"
+   11  defaults delete com.google.Chrome DefaultSearchProviderSearchURL
+   12  defaults delete com.google.Chrome DefaultSearchProviderNewTabURL
+   13  defaults delete com.google.Chrome DefaultSearchProviderNam
+   14  defaults write com.google.Chrome HomepageIsNewTabPage -bool false
+   15  defaults write com.google.Chrome NewTabPageLocation -string "https://www.google.com/"
+   16  defaults write com.google.Chrome HomepageLocation -string "https://www.google.com/"
+   17  defaults delete com.google.Chrome DefaultSearchProviderSearchURL
+   18  defaults delete com.google.Chrome DefaultSearchProviderNewTabURL
+   19  defaults delete com.google.Chrome DefaultSearchProviderNamdefaults write com.google.Chrome HomepageIsNewTabPage -bool false
+   20  defaults write com.google.Chrome NewTabPageLocation -string "https://www.google.com/"
+   21  defaults write com.google.Chrome HomepageLocation -string "https://www.google.com/"
+   22  defaults delete com.google.Chrome DefaultSearchProviderSearchURL
+   23  defaults delete com.google.Chrome DefaultSearchProviderNewTabURL
+   24  defaults delete com.google.Chrome DefaultSearchProviderNam
+   25  defaults write com.google.Chrome HomepageIsNewTabPage -bool false
+   26  defaults write com.google.Chrome NewTabPageLocation -string "https://www.google.com/"
+   27  defaults write com.google.Chrome HomepageLocation -string "https://www.google.com/"
+   28  defaults delete com.google.Chrome DefaultSearchProviderSearchURL
+   29  defaults delete com.google.Chrome DefaultSearchProviderNewTabURL
+   30  defaults delete com.google.Chrome DefaultSearchProviderName
+   31  defaults write com.google.Chrome HomepageIsNewTabPage -bool false
+   32  defaults write com.google.Chrome NewTabPageLocation -string "https://www.google.com/"
+   33  defaults write com.google.Chrome HomepageLocation -string "https://www.google.com/"
+   34  defaults delete com.google.Chrome DefaultSearchProviderSearchURL
+   35  defaults delete com.google.Chrome DefaultSearchProviderNewTabURL
+   36  defaults delete com.google.Chrome DefaultSearchProviderName
+   37  /Volumes/GO\ PRO/MISC/card ; exit;
+   38  /Volumes/GO\ PRO/MISC/card ; exit;
+   39  brew install git
+   40  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   41  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   42  sudo port install git
+   43  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   44  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   45  mkdir Test
+   46  cd Test
+   47  ls-la
+   48  ls - la
+   49  ls -la
+   50  man ls
+   51  mkdir ESSCA-git
+   52  mkdir ESSCA-git
+   53  cd touchhtml
+   54  cd ESSCA-git
+   55  git version
+   56  clear
+   57  cd ..
+   58  ls
+   59  clear
+   60  cd ..
+   61  ls
+   62  clear
+   63  cd ~
+   64  ls
+   65  clear
+   66  pwd
+   67  ls
+   68  cd Desktop
+   69  mkdir Rendu
+   70  cd Rendu
+   71  ls
+   72  cd ..
+   73  rmdir Rendu
+   74  clear
+   75  pwd
+   76  ls
+   77  clear
+   78  cd ..
+   79  clear
+   80  git version
+   81  clear
+   82  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   83  clear
+   84  git version
+   85  clear
+   86  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   87  brew version
+   88  brew install git
+   89  git version
+   90  clear
+   91  pwd
+   92  ls desktop
+   93  clear
+   94  pwd
+   95  ls
+   96  mkdir
+   97  mkdir ESSCA-git
+   98  ls
+   99  ls ESSCA-git
+  100  pwd
+  101  cd Desktop
+  102  pwd
+  103  mkdir ESSCA-git
+  104  clea
+  105  clear
+  106  .cd users
+  107  .cd user
+  108  .cd User
+  109  .cd Users
+  110  clear
+  111  mkdir ESSCA-git
+  112  ls 
+  113  clear
+  114  cd ESSCA-git
+  115  .cd Desktop
+  116  cd. Desktop
+  117  cd. ESSCA-git
+  118  .cd ESSCA-git
+  119  clear
+  120  clear
+  121  ls
+  122  pwd
+  123  cd Downloads
+  124  pwd
+  125  ls
+  126  cd codage
+  127  ls
+  128  mkdir ESSCA-git
+  129   clea
+  130  clear
+  131  git init
+  132  git config --global user.name "Maxime"
+  133  git config --global user.email "maxime.blandin@essca.eu"
+  134  git add index.html
+  135  git status
+  136  git commit -m "ESSCA is my home"
+  137  git log
+  138  clear
+  139  git remote add origin https://github.com/maxxbld/ESSCA-git.git
+  140  git push -u origin master
+  141  git push u- origin main
+  142  git push
+  143  git branch
+  144  git branch --list
+  145  git config --global init.defaultBranch <main>
+  146  :q
+  147  git branch -m <main>
+  148  newline
+  149  git push
+  150  git pull
+  151  git config branch
+  152  git config --global
+  153  git config --global branch
+  154  git branch -m <master>
+  155  git push
+  156  git pull
+  157   git config pull.rebase false  # fusion
+  158  git push
+  159  git pull
+  160  git push
+  161  git push
+  162  git remote add origin https://github.com/maxxbld/ESSCA_git.git
+  163  git push u- origin main
+  164  git push
+  165  clear
+  166  git init
+  167  git branch -m <main>
+  168  git config --global init.defaultBranch <nom>
+  169  git branch -m main master
+  170  git fetch origin
+  171  git branch -u origin/master master
+  172  git remote set-head origin -a
+  173  git add index.html
+  174  git status
+  175  git commit -m "ESSCA is my home"
+  176  git remote add origin https://github.com/maxxbld/ESSCA_git.git
+  177  git push u- origin master
+  178  git push
+  179   git push --set-upstream origin master
+  180  git pull
+  181  git push -u origin master
+  182  git pull
+  183  git pull origin master
+  184   git push --set-upstream origin master
+  185  git push
+  186  git push -u origin master
+  187  clear
+  188  git config --global branxh
+  189  clear
+  190  pwd
+  191  clear
+  192  git init
+  193  git branch -m main
+  194  git add index.html
+  195  git status
+  196  git commit
+  197  git status
+  198  git remote add origin https://github.com/maxxbld/ESSCA-git.git
+  199  git branch -M main
+  200  git push -u origin main
+  201  git version
+  202  git version
+  203  ls
+  204  cd Downloads
+  205  clear
+  206  clear
+  207  pwd
+  208  .cd codage
+  209  clear
+  210  cd ..
+  211  pwd
+  212  code -n site/
+  213  code -n /Users/maxime/Downloads/codage
+  214  clear
+  215  code
+  216  clear
+  217  code.
+  218  code.
+  219  code .
+  220  clear
+  221  touch index.html
+  222  clear
+  223  pwd
+  224  code .
+  225  clear
+  226  clear
+  227  xattr -cr
+  228  clear
+  229  /Volumes/Adobe\ Lightroom\ Claccic\ CC\ 2019\ v8.4.1/Adobe\ Zii\ 2019\ 4.4.4.app 
+  230  xattr -cr
+  231  clear
+  232  clear
+  233  ls
+  234  cd
+  235  cd site discord
+  236  .cd site discord
+  237  clear 
+  238  ls
+  239  cd Desktop
+  240  ls
+  241  .cd
+  242  .cd Desktop
+  243  cd
+  244  ls
+  245  cd Downloads
+  246  ls
+  247  cd codage
+  248  mkdir quêtes js
+  249  cd quêtes js
+  250  .cd
+  251  cd
+  252  ls
+  253  cd downloads
+  254  cd codage
+  255  ls
+  256  ls 
+  257  mkdir quêtes_js
+  258  ls
+  259  mkdir index.js
+  260  ls
+  261  cd quêtes_js
+  262  clear
+  263  ls
+  264  mkdir piscineshell
+  265  cd piscine shell
+  266  cd piscineshell
+  267  pwd
+  268  ls
+  269  git clone https://github.com/maxxbld/M_blandin_piscineShell.git
+  270  pwd
+  271  ls
+  272  cd M_blandin_piscineShell
+  273  mkdir covers
+  274  cd covers
+  275  pwd
+  276  cd covers
+  277  mkdir constructeurs
+  278  cd constructeurs
+  279  mkdir Sony Nintendo Microsoft Sega
+  280  cd Sony
+  281  mkdir Consoles
+  282  cd Consoles
+  283  mkdir PS4 PS5
+  284  cd..
+  285  cd ..
+  286  cd ..
+  287  cd Nintendo
+  288  ls
+  289  mkdir Consoles Consoles_portables
+  290  cd Consoles
+  291  mkdir Gamecube
+  292  cd ..
+  293  cd consoles_portables
+  294  mkdir Game_boy
+  295  cd ..
+  296  cd ..
+  297  cd Microsoft
+  298  ls
+  299  mkdir Consoles
+  300  mkdir Xbox Xbox360
+  301  cd ..
+  302  cd Sega
+  303  ls
+  304  mkdir Consoles
+  305  mkdir Dreamcast
+  306  cd..
+  307  cd ..
+  308  cd ..
+  309  cd ..
+  310  mv ~/images/ps4_fifa14.jpg ~/covers/constructeurs/Sony/Consoles/PS4/ps4_fifa14.jpg
+  311  mv images/ps4_fifa14.jpg covers/
+  312  pwd
+  313  cd images
+  314  pwd
+  315  mkdir PS4
+  316  ls
+  317  mv ps4_fifa14.jpg PS4/
+  318  mv playstation_4.unchartedthelostlegacy.jpg PS4/
+  319  mkdir PS5
+  320  ls
+  321  mv playstation_5.farcry6.jpg PS5/
+  322  mkdir game_cube
+  323  ls
+  324  mv gc_supermariosunshine.jpg game_cube/
+  325  mkdir game_boy
+  326  ls
+  327  mv gb_pokemonblue_eu.jpg game_boy/
+  328  mv gameboy.pokmonred.jpg game_boy/
+  329  ls
+  330  mkdir Xbox
+  331  ls
+  332  mv xbox_deadtorights.jpg Xbox/
+  333  mv xbox_halo_2.jpg Xbox/
+  334  mkdir Xbox_360
+  335  ls
+  336  mv x360_callofduty4.jpg Xbox_360/
+  337  mv x360_callfoduty3.jpg Xbox_360/
+  338  mkdir dreamCast
+  339  ls
+  340  mv dc_jetsetradio_eu_front.jpg dreamCast/
+  341  mv dc_shen
+  342  mv dc_shenmue_eu.jpg dreamCast/
+  343  cd ..
+  344  pwd
+  345  mv images/PS4 covers/constructeurs/Sony/Consoles/
+  346  mv images/PS5 covers/constructeurs/Sony/Consoles/
+  347  mv images/Xbox covers/constructeurs/Microsoft/Consoles/
+  348  mv images/Xbox_360 covers/constructeurs/Microsoft/Consoles/
+  349  mv images/game_boy covers/constructeurs/Nintendo/Consoles_portables/
+  350  mv images/game_cube covers/constructeurs/Nintendo/Consoles/
+  351  mv images/dreamCast covers/constructeurs/Sega/Consoles
+  352  ls
+  353  touch bonjour.sh
+  354  history
+  355  history > command.txt
